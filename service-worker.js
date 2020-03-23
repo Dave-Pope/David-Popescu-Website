@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/David-Popescu-Website/precache-manifest.9c73103d7466b790b221f9de43b22344.js"
+  "/David-Popescu-Website/precache-manifest.51344980a76a0051da0a2741f3fffb03.js"
 );
 
 self.addEventListener('message', (event) => {
