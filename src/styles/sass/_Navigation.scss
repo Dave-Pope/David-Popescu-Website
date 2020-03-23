@@ -1,0 +1,70 @@
+$small-nav: 5rem;
+$expanded-nav: 15rem;
+
+.Navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: $small-nav;
+    height: 100vh;
+    background: #222;
+    transition: 0.4s;
+    z-index: 1;
+
+    cursor: pointer;
+
+    &:hover {
+        width: $expanded-nav;
+
+        p {
+            display: block;
+        }
+
+        span {
+            display: none;
+        }
+
+        .card-body {
+            display: block;
+        }
+    }
+
+    .card-body {
+        display: none;
+    }
+
+    p {
+        display: none;
+    }
+
+    span {
+        display: block;
+        text-align: center;
+    }
+
+    .card {
+        background: #222;
+
+        .card-header {
+            color: #fff;
+            border: 0.5px solid #333;
+            background: rgb(32, 32, 32);
+        }
+
+        .card-body {
+            margin: 0;
+            padding: 0;
+
+            ul {
+                li {
+                    padding: 0.7rem 0 0.7rem 1.3rem;
+                    border: 0.5px solid #333;
+
+                    a {
+                        color: #fff;
+                    }
+                }
+            }
+        }
+    }
+}

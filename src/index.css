@@ -1,7 +1,25 @@
+@font-face {
+    font-family: Nunito;
+    src: url('./styles/fonts/Nunito-Regular.ttf');
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #555;
+}
+
+::-webkit-scrollbar-track {
+    background: #222;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Nunito;
 }
 
 body {
