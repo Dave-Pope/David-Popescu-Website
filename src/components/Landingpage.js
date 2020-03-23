@@ -1,5 +1,4 @@
 import React from 'react';
-import Content from './Content';
 
 const Landingpage = () => {
     let isDown = false;
@@ -18,7 +17,7 @@ const Landingpage = () => {
     return (
         <div className='Landingpage'>
             <div className='contact-action'>
-                <button className='contact-button'>CONTACT!</button>
+                <button className='contact-button'>PROJECTS!</button>
             </div>
 
             <div className='text-area'>
@@ -36,8 +35,6 @@ const Landingpage = () => {
             <div className='background'>
                 <img src={require('../assets/images/background1.jpg')} alt='' />
             </div>
-
-            <Content />
         </div>
     );
 };

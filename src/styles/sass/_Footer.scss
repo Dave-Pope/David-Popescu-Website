@@ -1,0 +1,60 @@
+@import '../Mixins';
+
+.Footer {
+    margin-top: 10rem;
+
+    .top-footer {
+        @include flexContent(center, row);
+
+        position: relative;
+        width: 100%;
+        height: 20vh;
+        background: rgb(34, 41, 44);
+
+        cursor: pointer;
+
+        h3 {
+            margin-left: 3.7%;
+            color: #fff;
+            font-size: 1.5rem;
+            letter-spacing: 2px;
+        }
+
+        .arrow-up {
+            @include transformTL(52%, 100%);
+            transform: translate(-50%, -50%);
+
+            width: 70px;
+            height: 70px;
+            border: 6px solid rgb(34, 41, 44);
+            border-radius: 50%;
+            background: #111;
+            z-index: 1;
+
+            cursor: pointer;
+
+            span {
+                @include transformTL(50%, 50%);
+                transform: translate(-50%, -50%);
+
+                img {
+                    @include transformTL(50%, 50%);
+                    transform: translate(-50%, -50%);
+                }
+            }
+        }
+    }
+
+    .bottom-footer {
+        @include flexContent(center, row);
+
+        width: 100%;
+        height: 30vh;
+        background: #111;
+
+        p {
+            margin-left: 3.7%;
+            color: #555;
+        }
+    }
+}

@@ -4,6 +4,7 @@ import ScrollToTop from 'react-router-scroll-top';
 
 import Navigation from './components/Navigation';
 import Landingpage from './components/Landingpage';
+import Content from './components/Content';
 import Footer from './components/Footer';
 
 import './styles/App.css';
@@ -16,7 +17,15 @@ const App = () => {
                     <Navigation />
 
                     <Switch>
-                        <Route path='/David-Popescu-Website' component={Landingpage} />
+                        <Route
+                            path='/David-Popescu-Website'
+                            render={props => (
+                                <>
+                                    <Landingpage />
+                                    <Content />
+                                </>
+                            )}
+                        />
                     </Switch>
 
                     <Footer />
