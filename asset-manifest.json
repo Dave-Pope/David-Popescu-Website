@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WebDavid/static/css/main.5f361e03.chunk.css",
+    "main.js": "/WebDavid/static/js/main.39352853.chunk.js",
+    "main.js.map": "/WebDavid/static/js/main.39352853.chunk.js.map",
+    "runtime-main.js": "/WebDavid/static/js/runtime-main.2f436597.js",
+    "runtime-main.js.map": "/WebDavid/static/js/runtime-main.2f436597.js.map",
+    "static/js/2.78d4fd4f.chunk.js": "/WebDavid/static/js/2.78d4fd4f.chunk.js",
+    "static/js/2.78d4fd4f.chunk.js.map": "/WebDavid/static/js/2.78d4fd4f.chunk.js.map",
+    "index.html": "/WebDavid/index.html",
+    "precache-manifest.b86867b66aa76d06fd4880c8a1c35e63.js": "/WebDavid/precache-manifest.b86867b66aa76d06fd4880c8a1c35e63.js",
+    "service-worker.js": "/WebDavid/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/WebDavid/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.78d4fd4f.chunk.js.LICENSE.txt": "/WebDavid/static/js/2.78d4fd4f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/WebDavid/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f436597.js",
+    "static/js/2.78d4fd4f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.39352853.chunk.js"
+  ]
+}
