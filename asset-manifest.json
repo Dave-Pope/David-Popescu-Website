@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/David-Popescu-Website/static/css/main.3495f61d.chunk.css",
-    "main.js": "/David-Popescu-Website/static/js/main.c34a5152.chunk.js",
-    "main.js.map": "/David-Popescu-Website/static/js/main.c34a5152.chunk.js.map",
+    "main.css": "/David-Popescu-Website/static/css/main.1aedefb6.chunk.css",
+    "main.js": "/David-Popescu-Website/static/js/main.1439674b.chunk.js",
+    "main.js.map": "/David-Popescu-Website/static/js/main.1439674b.chunk.js.map",
     "runtime-main.js": "/David-Popescu-Website/static/js/runtime-main.bc0fea40.js",
     "runtime-main.js.map": "/David-Popescu-Website/static/js/runtime-main.bc0fea40.js.map",
     "static/css/2.de424728.chunk.css": "/David-Popescu-Website/static/css/2.de424728.chunk.css",
-    "static/js/2.6e75f035.chunk.js": "/David-Popescu-Website/static/js/2.6e75f035.chunk.js",
-    "static/js/2.6e75f035.chunk.js.map": "/David-Popescu-Website/static/js/2.6e75f035.chunk.js.map",
+    "static/js/2.e174f447.chunk.js": "/David-Popescu-Website/static/js/2.e174f447.chunk.js",
+    "static/js/2.e174f447.chunk.js.map": "/David-Popescu-Website/static/js/2.e174f447.chunk.js.map",
     "index.html": "/David-Popescu-Website/index.html",
-    "precache-manifest.51344980a76a0051da0a2741f3fffb03.js": "/David-Popescu-Website/precache-manifest.51344980a76a0051da0a2741f3fffb03.js",
+    "precache-manifest.7c6184cbca9d355d87a40b59813585a3.js": "/David-Popescu-Website/precache-manifest.7c6184cbca9d355d87a40b59813585a3.js",
     "service-worker.js": "/David-Popescu-Website/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/David-Popescu-Website/static/css/2.de424728.chunk.css.map",
-    "static/css/main.3495f61d.chunk.css.map": "/David-Popescu-Website/static/css/main.3495f61d.chunk.css.map",
-    "static/js/2.6e75f035.chunk.js.LICENSE.txt": "/David-Popescu-Website/static/js/2.6e75f035.chunk.js.LICENSE.txt",
+    "static/css/main.1aedefb6.chunk.css.map": "/David-Popescu-Website/static/css/main.1aedefb6.chunk.css.map",
+    "static/js/2.e174f447.chunk.js.LICENSE.txt": "/David-Popescu-Website/static/js/2.e174f447.chunk.js.LICENSE.txt",
     "static/media/index.css": "/David-Popescu-Website/static/media/Nunito-Regular.d2e691bc.ttf",
-    "static/media/background1.jpg": "/David-Popescu-Website/static/media/background1.25e69609.jpg"
+    "static/media/background1.jpg": "/David-Popescu-Website/static/media/background1.25e69609.jpg",
+    "static/media/logo-bootstrap.png": "/David-Popescu-Website/static/media/logo-bootstrap.fc389ff9.png",
+    "static/media/logo-js.png": "/David-Popescu-Website/static/media/logo-js.02287d17.png",
+    "static/media/logo-redux.png": "/David-Popescu-Website/static/media/logo-redux.4912f6d8.png",
+    "static/media/logo-sass.png": "/David-Popescu-Website/static/media/logo-sass.74c36290.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bc0fea40.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.6e75f035.chunk.js",
-    "static/css/main.3495f61d.chunk.css",
-    "static/js/main.c34a5152.chunk.js"
+    "static/js/2.e174f447.chunk.js",
+    "static/css/main.1aedefb6.chunk.css",
+    "static/js/main.1439674b.chunk.js"
   ]
 }
